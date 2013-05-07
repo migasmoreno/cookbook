@@ -1,8 +1,5 @@
 # Grupo
-- 123456 David Martinho
-- 123456 David Martinho
-- 123456 David Martinho
-- 123456 David Martinho
+- 12567704 Miguel
 
 ## Changelog
 #### Versão 1.0:
